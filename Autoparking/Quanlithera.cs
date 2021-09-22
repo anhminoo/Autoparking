@@ -20,7 +20,6 @@ namespace Autoparking
         private void Quanlithera_Load(object sender, EventArgs e)
         {
             int i;
-            //Bách ngây thơ
         }
     }
 }
