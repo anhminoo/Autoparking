@@ -19,7 +19,7 @@ namespace Autoparking
 
         private void Quanlithera_Load(object sender, EventArgs e)
         {
-           //Dịu 
+           //Code của dịu
         }
     }
 }
