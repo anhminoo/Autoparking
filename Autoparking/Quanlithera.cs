@@ -16,5 +16,10 @@ namespace Autoparking
         {
             InitializeComponent();
         }
+
+        private void Quanlithera_Load(object sender, EventArgs e)
+        {
+            int i;
+        }
     }
 }
